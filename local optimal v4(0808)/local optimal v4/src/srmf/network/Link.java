@@ -53,6 +53,7 @@ public class Link {
 	}
 
 	/**
+	 * 
 	 * @param endNodes
 	 */
 	public void setEndNodes(Node[] endNodes) {
