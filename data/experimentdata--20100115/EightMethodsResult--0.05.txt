@@ -1,0 +1,62 @@
+测试开始
+修改XML文件成功：xmlFolder/LineXML/elineDDG200--0.05.xml
+使用的DDG为： xmlFolder/LineXML/elineDDG200--0.05.xml
+==============1 全删================
+不存数据集所需的产生时间：55.61128769866996
+不存数据集的个数: 200
+传输数据集的个数: 0
+Total Cost Rate for All delete Strategy: 363.9890337957191
+Execution Time : 90
+Execution Timemxbean : 78000500
+==============2  全存================
+不存数据集所需的产生时间：0.0
+不存数据集的个数: 0
+传输数据集的个数: 0
+Total Cost Rate for All save Strategy: 546.0481383073599
+Execution Time : 1
+Execution Timemxbean : 0
+==============4 segment================
+不存数据集所需的产生时间：51.618390057581884
+不存数据集的个数: 186
+传输数据集的个数: 0
+Total Cost Rate for Segment Strategy: 37.66256850731557
+Execution Time : 938
+Execution Timemxbean : 873605600
+==============5 常用================
+不存数据集所需的产生时间：55.61128769866993
+不存数据集的个数: 200
+传输数据集的个数: 0
+Total Cost Rate for Often Used Strategy: 363.9890337957191
+Execution Time : 85
+Execution Timemxbean : 78000500
+==============6 花费================
+不存数据集所需的产生时间：55.61128769866996
+不存数据集的个数: 200
+传输数据集的个数: 0
+Total Cost Rate for High Generation Cost Strategy: 363.9890337957191
+Execution Time : 84
+Execution Timemxbean : 93600600
+==============7 data dependence strategy================
+不存数据集所需的产生时间：54.71319765307907
+不存数据集的个数: 196
+传输数据集的个数: 0
+Total Cost Rate for Data Dependency Strategy: 80.7019178352708
+Execution Time : 5
+Execution Timemxbean : 0
+==============8 Segment_Trans strategy================
+不存数据集所需的产生时间：49.17183709191274
+不存数据集的个数: 179
+传输数据集的个数: 20
+Total Cost Rate for  Segment_Trans Strategy: 27.861105994972842
+Execution Time : 903
+Execution Timemxbean : 842405400
+==============9 Segment_Amazon strategy================
+不存数据集所需的产生时间：49.17183709191274
+不存数据集的个数: 179
+传输数据集的个数: 20
+Total Cost Rate for  Segment_Amazon Strategy: 28.60876646910355
+Execution Time : 903
+Execution Timemxbean : 842405400
+writeTimeCost row= 1
+写入成功！
+测试结束

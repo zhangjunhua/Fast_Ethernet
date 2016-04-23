@@ -1,0 +1,1480 @@
+testoutput1
+ratio:0.2timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput2
+ratio:0.4timecost = 9.180883107525228
+movetimes = 4
+transcost = 89.61148327235158
+
+testoutput3
+ratio:0.6000000000000001timecost = 4.669910955470796
+movetimes = 2
+transcost = 40.41278601764589
+
+testoutput4
+ratio:0.8timecost = 9.942538632305482
+movetimes = 4
+transcost = 86.64766618741905
+
+testoutput5
+ratio:0.2timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput6
+ratio:0.4timecost = 8.679202067153772
+movetimes = 4
+transcost = 82.81235179290141
+
+testoutput7
+ratio:0.6000000000000001timecost = 2.129075635855083
+movetimes = 1
+transcost = 19.90877463649687
+
+testoutput8
+ratio:0.8timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput9
+ratio:0.2timecost = 2.393699328151503
+movetimes = 1
+transcost = 21.872009598669134
+
+testoutput10
+ratio:0.4timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput11
+ratio:0.6000000000000001timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput12
+ratio:0.8timecost = 3.991702608299796
+movetimes = 2
+transcost = 37.02964804221244
+
+testoutput13
+ratio:0.2timecost = 2.4651416195381786
+movetimes = 1
+transcost = 22.130694242215945
+
+testoutput14
+ratio:0.4timecost = 2.1358972453933696
+movetimes = 1
+transcost = 18.71321024818879
+
+testoutput15
+ratio:0.6000000000000001timecost = 2.1263171034376254
+movetimes = 1
+transcost = 20.04862892190005
+
+testoutput16
+ratio:0.8timecost = 4.3699826793922085
+movetimes = 2
+transcost = 42.206255366097665
+
+testoutput17
+ratio:0.2timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput18
+ratio:0.4timecost = 3.6348752462379927
+movetimes = 2
+transcost = 36.0510485013311
+
+testoutput19
+ratio:0.6000000000000001timecost = 6.728603527065174
+movetimes = 3
+transcost = 64.04486992145286
+
+testoutput20
+ratio:0.8timecost = 4.753000564978669
+movetimes = 2
+transcost = 40.65493955243753
+
+testoutput21
+ratio:0.2timecost = 2.7512412645194595
+movetimes = 1
+transcost = 21.25241547254925
+
+testoutput22
+ratio:0.4timecost = 9.022146635098828
+movetimes = 4
+transcost = 80.03330253021247
+
+testoutput23
+ratio:0.6000000000000001timecost = 2.0727155462276508
+movetimes = 1
+transcost = 18.128215408932505
+
+testoutput24
+ratio:0.8timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput25
+ratio:0.2timecost = 6.13323606302956
+movetimes = 3
+transcost = 58.038109439071796
+
+testoutput26
+ratio:0.4timecost = 2.2280137650118332
+movetimes = 1
+transcost = 21.243397621864176
+
+testoutput27
+ratio:0.6000000000000001timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput28
+ratio:0.8timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput29
+ratio:0.2timecost = 3.935354061439388
+movetimes = 2
+transcost = 37.600005738997595
+
+testoutput30
+ratio:0.4timecost = 2.2686185876896645
+movetimes = 1
+transcost = 21.859183523281665
+
+testoutput31
+ratio:0.6000000000000001timecost = 4.1191137309295325
+movetimes = 2
+transcost = 39.89403207189039
+
+testoutput32
+ratio:0.8timecost = 1.895489924730552
+movetimes = 1
+transcost = 18.145088207205383
+
+testoutput33
+ratio:0.2timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput34
+ratio:0.4timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput35
+ratio:0.6000000000000001timecost = 1.970049298154558
+movetimes = 1
+transcost = 19.446755048684743
+
+testoutput36
+ratio:0.8timecost = 2.105477349708149
+movetimes = 1
+transcost = 19.836113620980633
+
+testoutput37
+ratio:0.2timecost = 2.3901030735313618
+movetimes = 1
+transcost = 21.82204122815003
+
+testoutput38
+ratio:0.4timecost = 4.957257270406021
+movetimes = 2
+transcost = 42.82657969583572
+
+testoutput39
+ratio:0.6000000000000001timecost = 5.041359783971618
+movetimes = 2
+transcost = 44.573713341287586
+
+testoutput40
+ratio:0.8timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput41
+ratio:0.2timecost = 6.243052859426358
+movetimes = 3
+transcost = 60.95633849631482
+
+testoutput42
+ratio:0.4timecost = 2.038646175402607
+movetimes = 1
+transcost = 20.34122015263071
+
+testoutput43
+ratio:0.6000000000000001timecost = 1.928350277919632
+movetimes = 1
+transcost = 19.09659351590434
+
+testoutput44
+ratio:0.8timecost = 2.917860987968612
+movetimes = 1
+transcost = 25.495882763666835
+
+testoutput45
+ratio:0.2timecost = 3.966486162876622
+movetimes = 2
+transcost = 38.97482824990957
+
+testoutput46
+ratio:0.4timecost = 3.7199349897170153
+movetimes = 2
+transcost = 36.320303796787265
+
+testoutput47
+ratio:0.6000000000000001timecost = 8.228407346721855
+movetimes = 4
+transcost = 78.25918934448771
+
+testoutput48
+ratio:0.8timecost = 2.234762507858789
+movetimes = 1
+transcost = 22.125449483646292
+
+testoutput49
+ratio:0.2timecost = 6.881460089015134
+movetimes = 3
+transcost = 67.79482622193314
+
+testoutput50
+ratio:0.4timecost = 4.232415121002433
+movetimes = 2
+transcost = 37.710154833762466
+
+testoutput51
+ratio:0.6000000000000001timecost = 2.064905961888093
+movetimes = 1
+transcost = 20.135441677617244
+
+testoutput52
+ratio:0.8timecost = 2.6189011121297057
+movetimes = 1
+transcost = 25.610624161056997
+
+testoutput53
+ratio:0.2timecost = 4.540353313632688
+movetimes = 2
+transcost = 43.156361468555254
+
+testoutput54
+ratio:0.4timecost = 2.277662105746807
+movetimes = 1
+transcost = 21.42302541758607
+
+testoutput55
+ratio:0.6000000000000001timecost = 4.110879056296588
+movetimes = 2
+transcost = 40.022929767635546
+
+testoutput56
+ratio:0.8timecost = 4.316112959148866
+movetimes = 2
+transcost = 41.133491673928404
+
+testoutput57
+ratio:0.2timecost = 2.2268137744388157
+movetimes = 1
+transcost = 21.843817281089436
+
+testoutput58
+ratio:0.4timecost = 7.056433430162905
+movetimes = 3
+transcost = 64.73778886119342
+
+testoutput59
+ratio:0.6000000000000001timecost = 9.028016185524239
+movetimes = 4
+transcost = 87.95648017533102
+
+testoutput60
+ratio:0.8timecost = 6.284312420757167
+movetimes = 3
+transcost = 58.68342302269712
+
+testoutput61
+ratio:0.2timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput62
+ratio:0.4timecost = 6.431888855328218
+movetimes = 3
+transcost = 63.76260090605106
+
+testoutput63
+ratio:0.6000000000000001timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput64
+ratio:0.8timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput65
+ratio:0.2timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput66
+ratio:0.4timecost = 10.48328952059309
+movetimes = 4
+transcost = 92.24153959100872
+
+testoutput67
+ratio:0.6000000000000001timecost = 2.082732282122474
+movetimes = 1
+transcost = 19.694770691374032
+
+testoutput68
+ratio:0.8timecost = 4.982680901711205
+movetimes = 2
+transcost = 48.13635408862461
+
+testoutput69
+ratio:0.2timecost = 2.2321364677730164
+movetimes = 1
+transcost = 20.015003008438427
+
+testoutput70
+ratio:0.4timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput71
+ratio:0.6000000000000001timecost = 9.536590965639224
+movetimes = 4
+transcost = 91.46014257220517
+
+testoutput72
+ratio:0.8timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput73
+ratio:0.2timecost = 2.1187840787731016
+movetimes = 1
+transcost = 19.27478926881888
+
+testoutput74
+ratio:0.4timecost = 6.237814325568786
+movetimes = 3
+transcost = 53.65546347182914
+
+testoutput75
+ratio:0.6000000000000001timecost = 6.6093025246925965
+movetimes = 3
+transcost = 65.09253190911996
+
+testoutput76
+ratio:0.8timecost = 5.34504197839048
+movetimes = 2
+transcost = 51.03442369756597
+
+testoutput77
+ratio:0.2timecost = 5.981874885196715
+movetimes = 3
+transcost = 57.02393767281508
+
+testoutput78
+ratio:0.4timecost = 1.986207365478681
+movetimes = 1
+transcost = 19.779120698159616
+
+testoutput79
+ratio:0.6000000000000001timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput80
+ratio:0.8timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput81
+ratio:0.2timecost = 2.549139640141822
+movetimes = 1
+transcost = 24.482754283966962
+
+testoutput82
+ratio:0.4timecost = 5.023755021489215
+movetimes = 2
+transcost = 48.958275652148785
+
+testoutput83
+ratio:0.6000000000000001timecost = 4.047696391185839
+movetimes = 2
+transcost = 38.91122685286838
+
+testoutput84
+ratio:0.8timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput85
+ratio:0.2timecost = 8.855484497139406
+movetimes = 4
+transcost = 79.49339433706213
+
+testoutput86
+ratio:0.4timecost = 1.8486865503939267
+movetimes = 1
+transcost = 18.388380995019517
+
+testoutput87
+ratio:0.6000000000000001timecost = 4.728011165262902
+movetimes = 2
+transcost = 39.738007667992164
+
+testoutput88
+ratio:0.8timecost = 4.329883212302931
+movetimes = 2
+transcost = 40.793257235998254
+
+testoutput89
+ratio:0.2timecost = 6.60312941674762
+movetimes = 3
+transcost = 63.5836654148214
+
+testoutput90
+ratio:0.4timecost = 1.87128604836676
+movetimes = 1
+transcost = 18.7039983019749
+
+testoutput91
+ratio:0.6000000000000001timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput92
+ratio:0.8timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput93
+ratio:0.2timecost = 2.3862675893061507
+movetimes = 1
+transcost = 18.543407752530406
+
+testoutput94
+ratio:0.4timecost = 7.2129619730706676
+movetimes = 3
+transcost = 62.60576281115348
+
+testoutput95
+ratio:0.6000000000000001timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput96
+ratio:0.8timecost = 1.9570183277917377
+movetimes = 1
+transcost = 19.538835310715402
+
+testoutput97
+ratio:0.2timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput98
+ratio:0.4timecost = 8.004763363018771
+movetimes = 3
+transcost = 70.77970605726722
+
+testoutput99
+ratio:0.6000000000000001timecost = 8.819255569622914
+movetimes = 4
+transcost = 84.51788363530105
+
+testoutput100
+ratio:0.8timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput101
+ratio:0.2timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput102
+ratio:0.4timecost = 4.380069432578684
+movetimes = 2
+transcost = 37.06545182894408
+
+testoutput103
+ratio:0.6000000000000001timecost = 10.003438276389765
+movetimes = 4
+transcost = 93.25460934216922
+
+testoutput104
+ratio:0.8timecost = 6.494541339385718
+movetimes = 3
+transcost = 61.67276650521949
+
+testoutput105
+ratio:0.2timecost = 6.682443344680446
+movetimes = 3
+transcost = 62.29036098278049
+
+testoutput106
+ratio:0.4timecost = 11.38203489744397
+movetimes = 5
+transcost = 103.54225706928452
+
+testoutput107
+ratio:0.6000000000000001timecost = 2.2273540565543968
+movetimes = 1
+transcost = 20.79345382562585
+
+testoutput108
+ratio:0.8timecost = 7.465843822460106
+movetimes = 3
+transcost = 72.6489950844333
+
+testoutput109
+ratio:0.2timecost = 9.497984885789716
+movetimes = 4
+transcost = 91.12958141873479
+
+testoutput110
+ratio:0.4timecost = 4.075464865197995
+movetimes = 2
+transcost = 39.68553943892344
+
+testoutput111
+ratio:0.6000000000000001timecost = 9.13650921142975
+movetimes = 4
+transcost = 87.52432340175609
+
+testoutput112
+ratio:0.8timecost = 4.095266799986749
+movetimes = 2
+transcost = 40.762442309959766
+
+testoutput113
+ratio:0.2timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput114
+ratio:0.4timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput115
+ratio:0.6000000000000001timecost = 2.276760703069297
+movetimes = 1
+transcost = 20.850628384058794
+
+testoutput116
+ratio:0.8timecost = 4.696237709161441
+movetimes = 2
+transcost = 41.51869041824159
+
+testoutput117
+ratio:0.2timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput118
+ratio:0.4timecost = 8.146794215111347
+movetimes = 4
+transcost = 80.06555381329905
+
+testoutput119
+ratio:0.6000000000000001timecost = 7.758573168925823
+movetimes = 4
+transcost = 75.81048233705494
+
+testoutput120
+ratio:0.8timecost = 4.550725119101371
+movetimes = 2
+transcost = 42.541663706317784
+
+testoutput121
+ratio:0.2timecost = 2.629045379109703
+movetimes = 1
+transcost = 23.552422836785624
+
+testoutput122
+ratio:0.4timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput123
+ratio:0.6000000000000001timecost = 4.549296328494943
+movetimes = 2
+transcost = 42.970531461578695
+
+testoutput124
+ratio:0.8timecost = 8.363478871071102
+movetimes = 4
+transcost = 81.9074361837818
+
+testoutput125
+ratio:0.2timecost = 1.7872070173859518
+movetimes = 1
+transcost = 17.60312573421435
+
+testoutput126
+ratio:0.4timecost = 3.8050176098139055
+movetimes = 2
+transcost = 37.286908186196534
+
+testoutput127
+ratio:0.6000000000000001timecost = 4.8145233758291655
+movetimes = 2
+transcost = 46.1891738543
+
+testoutput128
+ratio:0.8timecost = 1.8496559959298409
+movetimes = 1
+transcost = 18.258466416014066
+
+testoutput129
+ratio:0.2timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput130
+ratio:0.4timecost = 4.64123741870236
+movetimes = 2
+transcost = 43.98412515380237
+
+testoutput131
+ratio:0.6000000000000001timecost = 2.536715008139775
+movetimes = 1
+transcost = 24.77258950638523
+
+testoutput132
+ratio:0.8timecost = 4.862530017368857
+movetimes = 2
+transcost = 44.69776853015535
+
+testoutput133
+ratio:0.2timecost = 2.31767235731093
+movetimes = 1
+transcost = 23.12681306185437
+
+testoutput134
+ratio:0.4timecost = 9.484466781977883
+movetimes = 4
+transcost = 82.86454947330165
+
+testoutput135
+ratio:0.6000000000000001timecost = 4.116708084663922
+movetimes = 2
+transcost = 38.725699671416706
+
+testoutput136
+ratio:0.8timecost = 6.325066746474622
+movetimes = 3
+transcost = 57.94802244874413
+
+testoutput137
+ratio:0.2timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput138
+ratio:0.4timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput139
+ratio:0.6000000000000001timecost = 9.138350300555771
+movetimes = 4
+transcost = 89.26166511162575
+
+testoutput140
+ratio:0.8timecost = 4.576339426082612
+movetimes = 2
+transcost = 42.55315969432574
+
+testoutput141
+ratio:0.2timecost = 6.425582441181741
+movetimes = 3
+transcost = 62.617690430641964
+
+testoutput142
+ratio:0.4timecost = 4.370485192448728
+movetimes = 2
+transcost = 43.69110048062174
+
+testoutput143
+ratio:0.6000000000000001timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput144
+ratio:0.8timecost = 1.9671269019090447
+movetimes = 1
+transcost = 19.3772026191353
+
+testoutput145
+ratio:0.2timecost = 5.98857649027883
+movetimes = 3
+transcost = 57.00041895703801
+
+testoutput146
+ratio:0.4timecost = 6.915715579422888
+movetimes = 3
+transcost = 61.27871543619623
+
+testoutput147
+ratio:0.6000000000000001timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput148
+ratio:0.8timecost = 2.236449850621714
+movetimes = 1
+transcost = 21.81226439824691
+
+testoutput149
+ratio:0.2timecost = 4.775804679652221
+movetimes = 2
+transcost = 42.35621354733429
+
+testoutput150
+ratio:0.4timecost = 4.721552628820684
+movetimes = 2
+transcost = 44.19063477744655
+
+testoutput151
+ratio:0.6000000000000001timecost = 4.020052612033953
+movetimes = 2
+transcost = 39.28888599799486
+
+testoutput152
+ratio:0.8timecost = 2.2493322527130992
+movetimes = 1
+transcost = 21.336928381776207
+
+testoutput153
+ratio:0.2timecost = 4.64513244424373
+movetimes = 2
+transcost = 38.88914213711133
+
+testoutput154
+ratio:0.4timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput155
+ratio:0.6000000000000001timecost = 4.567119667982092
+movetimes = 2
+transcost = 43.6475379915381
+
+testoutput156
+ratio:0.8timecost = 1.9446237377806526
+movetimes = 1
+transcost = 18.176307853554317
+
+testoutput157
+ratio:0.2timecost = 4.321448941905575
+movetimes = 2
+transcost = 42.74342112351286
+
+testoutput158
+ratio:0.4timecost = 2.1334715801582353
+movetimes = 1
+transcost = 20.47740176228116
+
+testoutput159
+ratio:0.6000000000000001timecost = 2.1368734664460396
+movetimes = 1
+transcost = 21.099228649657682
+
+testoutput160
+ratio:0.8timecost = 1.889202830884903
+movetimes = 1
+transcost = 18.80896720228369
+
+testoutput161
+ratio:0.2timecost = 2.443196060387637
+movetimes = 1
+transcost = 18.36185942937533
+
+testoutput162
+ratio:0.4timecost = 2.6053758111152003
+movetimes = 1
+transcost = 22.90390673857648
+
+testoutput163
+ratio:0.6000000000000001timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput164
+ratio:0.8timecost = 2.206586462212112
+movetimes = 1
+transcost = 19.680990947904107
+
+testoutput165
+ratio:0.2timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput166
+ratio:0.4timecost = 7.461269210297063
+movetimes = 3
+transcost = 69.38486769832882
+
+testoutput167
+ratio:0.6000000000000001timecost = 4.350690951962413
+movetimes = 2
+transcost = 41.341930992186505
+
+testoutput168
+ratio:0.8timecost = 2.0428509732329254
+movetimes = 1
+transcost = 19.295008205339954
+
+testoutput169
+ratio:0.2timecost = 2.3140816255639693
+movetimes = 1
+transcost = 21.88830000207315
+
+testoutput170
+ratio:0.4timecost = 3.8220520915338936
+movetimes = 2
+transcost = 36.82260453003808
+
+testoutput171
+ratio:0.6000000000000001timecost = 6.43634597950561
+movetimes = 3
+transcost = 61.43155859381403
+
+testoutput172
+ratio:0.8timecost = 3.9965503600311227
+movetimes = 2
+transcost = 38.50073781393882
+
+testoutput173
+ratio:0.2timecost = 4.797382558717457
+movetimes = 2
+transcost = 38.74126683960761
+
+testoutput174
+ratio:0.4timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput175
+ratio:0.6000000000000001timecost = 2.3759579524370573
+movetimes = 1
+transcost = 20.872625331743322
+
+testoutput176
+ratio:0.8timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput177
+ratio:0.2timecost = 3.83568187646118
+movetimes = 2
+transcost = 36.43691378163975
+
+testoutput178
+ratio:0.4timecost = 4.492347979147727
+movetimes = 2
+transcost = 42.37652018897708
+
+testoutput179
+ratio:0.6000000000000001timecost = 8.5307698325596
+movetimes = 4
+transcost = 75.87640936873922
+
+testoutput180
+ratio:0.8timecost = 13.282991358140979
+movetimes = 5
+transcost = 118.54333125189183
+
+testoutput181
+ratio:0.2timecost = 2.5558834661194076
+movetimes = 1
+transcost = 24.5212597991858
+
+testoutput182
+ratio:0.4timecost = 8.609964302617376
+movetimes = 4
+transcost = 78.21100153596291
+
+testoutput183
+ratio:0.6000000000000001timecost = 2.2985579956070707
+movetimes = 1
+transcost = 21.61601572530266
+
+testoutput184
+ratio:0.8timecost = 2.743397319619397
+movetimes = 1
+transcost = 25.191700647694752
+
+testoutput185
+ratio:0.2timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput186
+ratio:0.4timecost = 6.996178269518713
+movetimes = 3
+transcost = 68.71187670174751
+
+testoutput187
+ratio:0.6000000000000001timecost = 4.689870413290867
+movetimes = 2
+transcost = 44.48789800213497
+
+testoutput188
+ratio:0.8timecost = 4.2595381726476385
+movetimes = 2
+transcost = 39.91309484970329
+
+testoutput189
+ratio:0.2timecost = 2.120790214500144
+movetimes = 1
+transcost = 19.527483308692755
+
+testoutput190
+ratio:0.4timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput191
+ratio:0.6000000000000001timecost = 4.456466589419667
+movetimes = 2
+transcost = 41.03828426371882
+
+testoutput192
+ratio:0.8timecost = 10.206107860409448
+movetimes = 5
+transcost = 96.75056069103921
+
+testoutput193
+ratio:0.2timecost = 6.232867802788357
+movetimes = 3
+transcost = 58.971007586318365
+
+testoutput194
+ratio:0.4timecost = 4.335658573338561
+movetimes = 2
+transcost = 43.32311511257656
+
+testoutput195
+ratio:0.6000000000000001timecost = 6.830331953698396
+movetimes = 3
+transcost = 57.74579771114122
+
+testoutput196
+ratio:0.8timecost = 4.789807396284167
+movetimes = 2
+transcost = 44.14947936809301
+
+testoutput197
+ratio:0.2timecost = 9.827209609770048
+movetimes = 4
+transcost = 96.83621171443681
+
+testoutput198
+ratio:0.4timecost = 4.83217370890068
+movetimes = 2
+transcost = 44.1788850167955
+
+testoutput199
+ratio:0.6000000000000001timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput200
+ratio:0.8timecost = 2.1759017520354123
+movetimes = 1
+transcost = 20.612729021880888
+
+testoutput201
+ratio:0.2timecost = 2.2846410559102543
+movetimes = 1
+transcost = 21.46443447640821
+
+testoutput202
+ratio:0.4timecost = 4.481752199802482
+movetimes = 2
+transcost = 44.520758665157985
+
+testoutput203
+ratio:0.6000000000000001timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput204
+ratio:0.8timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput205
+ratio:0.2timecost = 4.764864080872423
+movetimes = 2
+transcost = 47.50367288906571
+
+testoutput206
+ratio:0.4timecost = 2.2333267058154007
+movetimes = 1
+transcost = 22.146863052792675
+
+testoutput207
+ratio:0.6000000000000001timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput208
+ratio:0.8timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput209
+ratio:0.2timecost = 4.594576634193052
+movetimes = 2
+transcost = 42.52260665255618
+
+testoutput210
+ratio:0.4timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput211
+ratio:0.6000000000000001timecost = 2.1521226646608684
+movetimes = 1
+transcost = 21.13303954613907
+
+testoutput212
+ratio:0.8timecost = 9.786140623879625
+movetimes = 4
+transcost = 95.45251002616432
+
+testoutput213
+ratio:0.2timecost = 7.034591896024228
+movetimes = 3
+transcost = 67.2131175218309
+
+testoutput214
+ratio:0.4timecost = 3.4553071183592405
+movetimes = 1
+transcost = 25.13596308706389
+
+testoutput215
+ratio:0.6000000000000001timecost = 2.0999800394207258
+movetimes = 1
+transcost = 18.912053475753076
+
+testoutput216
+ratio:0.8timecost = 1.809961854721728
+movetimes = 1
+transcost = 18.011889833339595
+
+testoutput217
+ratio:0.2timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput218
+ratio:0.4timecost = 1.9481640342886648
+movetimes = 1
+transcost = 19.129550096810306
+
+testoutput219
+ratio:0.6000000000000001timecost = 2.066642841785851
+movetimes = 1
+transcost = 19.379398391630776
+
+testoutput220
+ratio:0.8timecost = 2.1510761939337
+movetimes = 1
+transcost = 20.90473083009638
+
+testoutput221
+ratio:0.2timecost = 4.831106531555518
+movetimes = 2
+transcost = 45.023531151002395
+
+testoutput222
+ratio:0.4timecost = 6.709971349538925
+movetimes = 3
+transcost = 56.91872894977563
+
+testoutput223
+ratio:0.6000000000000001timecost = 2.1292658297030456
+movetimes = 1
+transcost = 20.667780235900345
+
+testoutput224
+ratio:0.8timecost = 2.0291476980757714
+movetimes = 1
+transcost = 20.101991585649838
+
+testoutput225
+ratio:0.2timecost = 3.948014235971446
+movetimes = 2
+transcost = 39.139428534258094
+
+testoutput226
+ratio:0.4timecost = 1.9405273978498558
+movetimes = 1
+transcost = 18.776467349205564
+
+testoutput227
+ratio:0.6000000000000001timecost = 4.655156058723058
+movetimes = 2
+transcost = 41.58752571816093
+
+testoutput228
+ratio:0.8timecost = 4.372932428515654
+movetimes = 2
+transcost = 43.422724580398466
+
+testoutput229
+ratio:0.2timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput230
+ratio:0.4timecost = 2.5933083819255525
+movetimes = 1
+transcost = 25.52557670069268
+
+testoutput231
+ratio:0.6000000000000001timecost = 2.7266180489535516
+movetimes = 1
+transcost = 24.281676583328576
+
+testoutput232
+ratio:0.8timecost = 9.269650552202084
+movetimes = 4
+transcost = 87.6254193871841
+
+testoutput233
+ratio:0.2timecost = 3.7901132855454605
+movetimes = 2
+transcost = 36.98294033660695
+
+testoutput234
+ratio:0.4timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput235
+ratio:0.6000000000000001timecost = 4.616926642102436
+movetimes = 2
+transcost = 42.43315319900918
+
+testoutput236
+ratio:0.8timecost = 7.137886476148291
+movetimes = 3
+transcost = 67.7279156435061
+
+testoutput237
+ratio:0.2timecost = 2.3369960581183666
+movetimes = 1
+transcost = 22.381681520582717
+
+testoutput238
+ratio:0.4timecost = 6.181977329398297
+movetimes = 3
+transcost = 59.93479525045916
+
+testoutput239
+ratio:0.6000000000000001timecost = 4.565262571169985
+movetimes = 2
+transcost = 41.09513975791955
+
+testoutput240
+ratio:0.8timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput241
+ratio:0.2timecost = 1.853849757212223
+movetimes = 1
+transcost = 18.474981619182095
+
+testoutput242
+ratio:0.4timecost = 2.0388475561607273
+movetimes = 1
+transcost = 19.998630882151616
+
+testoutput243
+ratio:0.6000000000000001timecost = 1.9703410209455399
+movetimes = 1
+transcost = 18.2119844802674
+
+testoutput244
+ratio:0.8timecost = 2.3792479533585396
+movetimes = 1
+transcost = 23.488484843197256
+
+testoutput245
+ratio:0.2timecost = 4.900822190589144
+movetimes = 2
+transcost = 48.05753820461788
+
+testoutput246
+ratio:0.4timecost = 4.844161154284816
+movetimes = 2
+transcost = 44.69479520531013
+
+testoutput247
+ratio:0.6000000000000001timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput248
+ratio:0.8timecost = 2.1066108906095873
+movetimes = 1
+transcost = 20.45479536368675
+
+testoutput249
+ratio:0.2timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput250
+ratio:0.4timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput251
+ratio:0.6000000000000001timecost = 2.0068831762569665
+movetimes = 1
+transcost = 20.02587575385606
+
+testoutput252
+ratio:0.8timecost = 4.290615979501693
+movetimes = 2
+transcost = 41.03152240201079
+
+testoutput253
+ratio:0.2timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput254
+ratio:0.4timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput255
+ratio:0.6000000000000001timecost = 8.519020528968282
+movetimes = 4
+transcost = 79.75242473386777
+
+testoutput256
+ratio:0.8timecost = 4.259442690919032
+movetimes = 2
+transcost = 40.12478967967559
+
+testoutput257
+ratio:0.2timecost = 4.475797265682482
+movetimes = 2
+transcost = 41.778168276694856
+
+testoutput258
+ratio:0.4timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput259
+ratio:0.6000000000000001timecost = 8.467832018978966
+movetimes = 4
+transcost = 81.66377590276275
+
+testoutput260
+ratio:0.8timecost = 4.485085804306157
+movetimes = 2
+transcost = 38.94021461587636
+
+testoutput261
+ratio:0.2timecost = 2.559150137856164
+movetimes = 1
+transcost = 22.402512546368353
+
+testoutput262
+ratio:0.4timecost = 2.703037593448543
+movetimes = 1
+transcost = 25.34968113120967
+
+testoutput263
+ratio:0.6000000000000001timecost = 2.02811975967692
+movetimes = 1
+transcost = 19.626333124048166
+
+testoutput264
+ratio:0.8timecost = 4.4944657463937245
+movetimes = 2
+transcost = 38.36917065834338
+
+testoutput265
+ratio:0.2timecost = 2.323585383700426
+movetimes = 1
+transcost = 20.730002849035635
+
+testoutput266
+ratio:0.4timecost = 4.734050441706669
+movetimes = 2
+transcost = 43.21072319804408
+
+testoutput267
+ratio:0.6000000000000001timecost = 3.628075382693313
+movetimes = 2
+transcost = 35.305862494619284
+
+testoutput268
+ratio:0.8timecost = 2.1933585897714574
+movetimes = 1
+transcost = 19.538210209507753
+
+testoutput269
+ratio:0.2timecost = 2.085335658417456
+movetimes = 1
+transcost = 20.23039600504245
+
+testoutput270
+ratio:0.4timecost = 4.21887684968772
+movetimes = 2
+transcost = 39.88263806181442
+
+testoutput271
+ratio:0.6000000000000001timecost = 2.272663654431288
+movetimes = 1
+transcost = 22.619315781548636
+
+testoutput272
+ratio:0.8timecost = 1.891460530242888
+movetimes = 1
+transcost = 18.482028385342936
+
+testoutput273
+ratio:0.2timecost = 4.719048346890622
+movetimes = 2
+transcost = 46.16813908872082
+
+testoutput274
+ratio:0.4timecost = 7.218767229650663
+movetimes = 3
+transcost = 70.42991876053178
+
+testoutput275
+ratio:0.6000000000000001timecost = 2.792446428175952
+movetimes = 1
+transcost = 23.114110545358837
+
+testoutput276
+ratio:0.8timecost = 4.897404468308318
+movetimes = 2
+transcost = 47.97443022373993
+
+testoutput277
+ratio:0.2timecost = 1.8023031295842686
+movetimes = 1
+transcost = 17.72908430139325
+
+testoutput278
+ratio:0.4timecost = 2.5081402078917803
+movetimes = 1
+transcost = 24.298090590269663
+
+testoutput279
+ratio:0.6000000000000001timecost = 5.105894559896491
+movetimes = 2
+transcost = 44.047851535699635
+
+testoutput280
+ratio:0.8timecost = 1.9690009471119307
+movetimes = 1
+transcost = 18.16040111320467
+
+testoutput281
+ratio:0.2timecost = 6.14148631839812
+movetimes = 2
+transcost = 45.04530783922985
+
+testoutput282
+ratio:0.4timecost = 10.871046601442076
+movetimes = 5
+transcost = 102.72992582584303
+
+testoutput283
+ratio:0.6000000000000001timecost = 6.979200700792257
+movetimes = 3
+transcost = 67.64817815838953
+
+testoutput284
+ratio:0.8timecost = 5.18872125566088
+movetimes = 2
+transcost = 51.12491736798873
+
+testoutput285
+ratio:0.2timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput286
+ratio:0.4timecost = 2.3695478202556797
+movetimes = 1
+transcost = 21.865048559593802
+
+testoutput287
+ratio:0.6000000000000001timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput288
+ratio:0.8timecost = 2.0778336082728064
+movetimes = 1
+transcost = 20.230652803230807
+
+testoutput289
+ratio:0.2timecost = 10.739680207466002
+movetimes = 5
+transcost = 102.23743298593112
+
+testoutput290
+ratio:0.4timecost = 4.106267694248427
+movetimes = 2
+transcost = 39.90692836547224
+
+testoutput291
+ratio:0.6000000000000001timecost = 6.919424916044671
+movetimes = 3
+transcost = 62.488719070895854
+
+testoutput292
+ratio:0.8timecost = 4.398459090212723
+movetimes = 2
+transcost = 43.00881065642692
+
+testoutput293
+ratio:0.2timecost = 3.789216887098201
+movetimes = 2
+transcost = 36.857673925029886
+
+testoutput294
+ratio:0.4timecost = 8.544757346953759
+movetimes = 4
+transcost = 81.72695327786411
+
+testoutput295
+ratio:0.6000000000000001timecost = 0.0
+movetimes = 0
+transcost = 0.0
+
+testoutput296
+ratio:0.8timecost = 4.346793051948485
+movetimes = 2
+transcost = 42.30192208644091
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="local optimal v4(0808)/local optimal v4/src"/>
+	<classpathentry kind="lib" path="local optimal v4(0808)/local optimal v4/lib/jgrapht-jdk1.6.jar" sourcepath="local optimal v4(0808)/local optimal v4/lib/jgrapht-jdk1.6.jar"/>
+	<classpathentry kind="lib" path="local optimal v4(0808)/local optimal v4/lib/jxl.jar"/>
+	<classpathentry kind="lib" path="local optimal v4(0808)/local optimal v4/lib/mysql-connector-java-5.1.12-bin.jar"/>
+	<classpathentry kind="lib" path="dom4j-1.6.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="local optimal v4(0808)/local optimal v4/bin"/>
+</classpath>
